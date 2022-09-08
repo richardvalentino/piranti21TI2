@@ -1,1 +1,4 @@
-
+specification
+development
+operation
+maintenance
